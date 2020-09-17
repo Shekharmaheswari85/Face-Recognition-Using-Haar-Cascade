@@ -2,7 +2,6 @@ freeai
 .vscode
 .ipynb_checkpoints
 DATA/
-MODULE FOR DEPLOYMENT/
 model_svm.pickle
 Application Layer Track - Practice - GeeksforGeeks_3.ts
 model/
